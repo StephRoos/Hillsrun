@@ -1,6 +1,6 @@
 # HillsRun
 
-Une application mobile pour suivre vos courses en montagne avec analyse du dénivelé et des performances.
+Une application pour suivre et anlyser vos courses en collines avec du dénivelé et des performances.
 
 ## 📱 Fonctionnalités
 - Suivi GPS en temps réel
